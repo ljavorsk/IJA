@@ -7,7 +7,6 @@
 package ija.ija2019.homework2;
 
 import ija.ija2019.homework2.maps.Coordinate;
-import ija.ija2019.homework2.maps.MyCoordinate;
 import ija.ija2019.homework2.maps.Line;
 import ija.ija2019.homework2.maps.Stop;
 import ija.ija2019.homework2.maps.Street;
